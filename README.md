@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center"> <img src="https://github.com/ranrhuang/ranrhuang.github.io/raw/master/nas3r/static/images/icon.png" width="80" align="absmiddle"> From None to All  <br> Self-Supervised 3D Reconstruction via Novel View Synthesis </h2>
+  <h2 align="center"> <img src="https://github.com/ranrhuang/ranrhuang.github.io/raw/master/nas3r/static/images/icon.png" width="80" align="absmiddle"> From None to All:  <br> Self-Supervised 3D Reconstruction via Novel View Synthesis </h2>
  <p align="center">
     <a href="https://ranrhuang.github.io/">Ranran Huang</a>
     ·
@@ -9,7 +9,7 @@
     ·
     <a href="https://www.imperial.ac.uk/people/k.mikolajczyk">Krystian Mikolajczyk</a>
   </p>
-  <h3 align="center"><a href="">Paper</a> | <a href="https://ranrhuang.github.io/nas3r/">Project Page</a>  </h3>
+  <h3 align="center"><a href="https://arxiv.org/pdf/2603.27455">Paper</a> | <a href="https://ranrhuang.github.io/nas3r/">Project Page</a>  </h3>
   <div align="center"></div>
 </p>
 <p align="center">
@@ -125,7 +125,7 @@ This project is built upon these excellent repositories:[SPFSplatV2](https://git
 @article{huang2026nas3r,
       title={From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis} ,
       author={Ranran Huang and Weixun Luo and Ye Mao and Krystian Mikolajczyk},
-      journal={arXiv preprint arXiv: },
+      journal={arXiv preprint arXiv: 2603.27455},
       year={2026}
 }
 ```
